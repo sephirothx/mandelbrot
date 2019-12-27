@@ -1,3 +1,3 @@
 # mandelbrot
 
-![Full](mandelbrot/img/full.png)
+![Full](img/preview.png)
